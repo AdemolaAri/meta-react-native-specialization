@@ -1,0 +1,25 @@
+/* element selector */
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: green
+}
+
+/*ID selector*/
+#falaonly { /* name of id in html code*/
+    background-color: red;
+}
+
+/*Class selector : class attribute applies 
+    to all html elements with the class name */
+.navigation {
+    margin: 2px;
+    background-color: grey;
+}
+/* Element with class */
+p.fooditems {
+    margin : 4px ;
+    color: yellow
+}
